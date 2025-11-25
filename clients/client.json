@@ -2,7 +2,7 @@
   "license_id": "MTECH-ABC-001",
   "client_name": "ABC Traders",
   "app_name": "ABC POS",
-  "status": "active",
+  "status": "iactive",
   "issued_on": "2025-10-14",
   "message": "Licensed to ABC Traders by M Tech Solutions"
 }
